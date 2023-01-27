@@ -1,3 +1,5 @@
 m1
 
 m2
+
+f3 - creating merge conflict 
